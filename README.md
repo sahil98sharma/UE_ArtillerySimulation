@@ -1,5 +1,6 @@
 # UE_ArtillerySimulation
 ## Assignment for Parallax Labs
+## Engine Version: Unreal Engine 5.6.1
 
 
 ### Overview 
